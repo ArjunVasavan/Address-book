@@ -1,0 +1,79 @@
+-------------------------------------------------------------------------------
+====================== PROJECT 1 : ADDRESS BOOK =============================== 
+-------------------------------------------------------------------------------
+
+Name        : Arjun Vasavan
+
+Emertxe ID  : 25021_068
+
+Start Date  : 15 - 09 - 2025
+End Date    : 21 - 09 - 2025
+
+Description : The Address Book Management System is a C-based application 
+              designed to efficiently manage personal or organizational 
+              contacts. The program provides core functionality for creating,
+              viewing, searching, editing,and deleting contact information, 
+              which is stored persistently in a CSV file.
+
+-------------------------------------------------------------------------------
+
+Sample Execution :-
+
+
+=== <> Address Book Menu <> ===
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 1
+Enter the details
+
+1.Enter the Name :Kylian Mbappe
+2.Enter the number :1234564325
+3.Enter the email :ninjaturtle@gmail.com
+=== <> Contact details have been added Successfully <> ===
+
+=== <> Address Book Menu <> ===
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 5
+
+=== <> List All Contact Menu <> ===
+
+1. List By Name
+2. List By Number
+3. List By Email
+4. Default List
+Enter Your Choise: 4
+Name                          Number                  Email
+
+Cristano Ronaldo              7777777777              cr7suii@gmail.com
+Diego Maradona                9012345678              godshand@gmail.com
+Lionel Messi                  1234543210              leolapulga10@gmail.com
+Mohammed salah                123456712               egyptianprince@gmail.com
+Neymar jr                     1234578901              neymaaa@gmmail.com
+Paul pogba                    1234561234              paulopaulpogba@gmail.com
+Zinedine Zidane               1012345678              zizu@gmail.com
+Zlatan ibrahmovic             1234321234              thelion@gmail.com
+Kylian Mbappe                 1234564325              ninjaturtle@gmail.com
+
+=== <> Address Book Menu <> ===
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 6
+Saving and Exiting...
+
+-------------------------------------------------------------------------------
